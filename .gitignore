@@ -1,0 +1,15 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Exported private conversations - do not commit
+ChatGPT-CLEAN-*.md
+ChatGPT-*.md
+*.private.md
+*.local.md
+
+# Test/output artifacts
+out/
+dist/
